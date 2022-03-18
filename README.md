@@ -30,5 +30,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [Why Taking Notes Secretly Steal Your Time Becoming a Developer Faster](https://medium.com/codex/why-taking-notes-secretly-steal-your-time-becoming-a-developer-faster-d96c13093f80?source=rss-857fb75dacea------2)
+- [The 4 Creational Patterns You Need To Know To Become A Senior Developer](https://javascript.plainenglish.io/the-4-creational-patterns-you-need-to-know-to-become-a-senior-developer-e2d8c0a26b8f?source=rss-857fb75dacea------2)
+- [The 1 Simple Explanation of Variables &amp; Datatypes in JavaScript for Beginners](https://javascript.plainenglish.io/the-1-simple-explanation-of-variables-datatypes-in-javascript-for-beginners-befc1a05dcc4?source=rss-857fb75dacea------2)
+- [The Great Misunderstanding in Software Development](https://medium.com/geekculture/the-great-misunderstanding-in-software-development-589a3aa63e8f?source=rss-857fb75dacea------2)
+- [How to Use the JavaScript Developer Console Like a Pro for Coding Beginners](https://javascript.plainenglish.io/how-to-use-the-javascript-developer-console-like-a-pro-for-coding-beginners-f64f9ece2c5f?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
