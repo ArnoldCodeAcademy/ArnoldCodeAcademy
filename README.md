@@ -28,7 +28,7 @@
 <br>
 <br>
 
-## Blog posts
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Why Taking Notes Secretly Steal Your Time Becoming a Developer Faster](https://medium.com/codex/why-taking-notes-secretly-steal-your-time-becoming-a-developer-faster-d96c13093f80?source=rss-857fb75dacea------2)
 - [The 4 Creational Patterns You Need To Know To Become A Senior Developer](https://javascript.plainenglish.io/the-4-creational-patterns-you-need-to-know-to-become-a-senior-developer-e2d8c0a26b8f?source=rss-857fb75dacea------2)
