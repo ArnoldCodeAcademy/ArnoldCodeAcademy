@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Arnold Abraham, Full-Stack Freelancer & Founder@ArnoldCodeAcademy
+### 👋 Hi, I’m Arnold Abraham, Full-Stack Freelancer & Founder@[ArnoldCodeAcademy](www.arnoldcode.com)
 
 - 🔎 I am a fullstack software engineer from Germany.
 - 🔭 Working on multiple frontend and backend project using Angular and Nodejs
