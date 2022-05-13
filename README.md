@@ -30,7 +30,7 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [3 Vital Tactics on How to Learn a Programming Language Successfully](https://arnoldcode.medium.com/3-vital-tactics-on-how-to-learn-a-programming-language-successfully-8b0a685ff39a?source=rss-857fb75dacea------2)
+- [3 Vital Tactics on How to Learn a Programming Language Successfully](https://medium.com/ed-tech-talks/3-vital-tactics-on-how-to-learn-a-programming-language-successfully-8b0a685ff39a?source=rss-857fb75dacea------2)
 - [Understand Objects — The 1 Most Important Topic in JavaScript](https://javascript.plainenglish.io/understand-objects-the-1-most-important-topic-in-javascript-11be3e3fc7e9?source=rss-857fb75dacea------2)
 - [How To Write Modular Code By Following 2 Simple Principles](https://medium.com/codex/how-to-write-modular-code-by-following-2-simple-principles-e5f6eb733b4?source=rss-857fb75dacea------2)
 - [The 1 Perfectly Simple Explanation of Loops, Well-Timed for Beginners](https://javascript.plainenglish.io/the-1-perfectly-simple-explanation-of-loops-well-timed-for-beginners-4c689651cca8?source=rss-857fb75dacea------2)
