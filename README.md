@@ -30,9 +30,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [6 Worthy Features in .Net 7 for Any Web Developer](https://betterprogramming.pub/6-worthy-features-in-net-7-for-any-web-developer-6ac42b20426b?source=rss-857fb75dacea------2)
 - [Why Pure Code Is a Waste of Time and Clean Code Is More Than Enough](https://medium.com/geekculture/why-pure-code-is-a-waste-of-time-and-clean-code-is-more-than-enough-148bb08a0109?source=rss-857fb75dacea------2)
 - [3 Busted Myths About the 35-Hour Week That You Should Present to Your Boss](https://medium.com/geekculture/3-busted-myths-about-the-35-hour-week-that-you-should-present-to-your-boss-efa5403bb263?source=rss-857fb75dacea------2)
 - [3 Vital Tactics on How to Learn a Programming Language Successfully](https://medium.com/ed-tech-talks/3-vital-tactics-on-how-to-learn-a-programming-language-successfully-8b0a685ff39a?source=rss-857fb75dacea------2)
 - [Understand Objects — The 1 Most Important Topic in JavaScript](https://javascript.plainenglish.io/understand-objects-the-1-most-important-topic-in-javascript-11be3e3fc7e9?source=rss-857fb75dacea------2)
-- [How To Write Modular Code By Following 2 Simple Principles](https://medium.com/codex/how-to-write-modular-code-by-following-2-simple-principles-e5f6eb733b4?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
