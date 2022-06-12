@@ -30,9 +30,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Throwing Errors Everywhere. You Can Also Consider Result Objects](https://betterprogramming.pub/stop-throwing-errors-everywhere-you-can-also-consider-result-objects-4fb5936a9e2d?source=rss-857fb75dacea------2)
+- [3 Remarkable Easy And Social Rewarding Tactics to Avoid Spaghetti Code](https://medium.com/geekculture/3-remarkable-easy-and-social-rewarding-tactics-to-avoid-spaghetti-code-fccab8f012cf?source=rss-857fb75dacea------2)
 - [Why Copying Code Is The Masterclass Of Learning How To Code](https://medium.com/codex/why-copying-code-is-the-masterclass-of-learning-how-to-code-85083c7a136d?source=rss-857fb75dacea------2)
 - [6 Worthy Features in .Net 7 for Any Web Developer](https://betterprogramming.pub/6-worthy-features-in-net-7-for-any-web-developer-6ac42b20426b?source=rss-857fb75dacea------2)
 - [Why Pure Code Is a Waste of Time and Clean Code Is More Than Enough](https://medium.com/geekculture/why-pure-code-is-a-waste-of-time-and-clean-code-is-more-than-enough-148bb08a0109?source=rss-857fb75dacea------2)
-- [3 Busted Myths About the 35-Hour Week That You Should Present to Your Boss](https://medium.com/geekculture/3-busted-myths-about-the-35-hour-week-that-you-should-present-to-your-boss-efa5403bb263?source=rss-857fb75dacea------2)
-- [3 Vital Tactics on How to Learn a Programming Language Successfully](https://medium.com/ed-tech-talks/3-vital-tactics-on-how-to-learn-a-programming-language-successfully-8b0a685ff39a?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
