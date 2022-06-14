@@ -30,9 +30,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2 Little But Impressive Principles To Fix Any Coding Problem For Years](https://medium.com/codex/2-little-but-impressive-principles-to-fix-any-coding-problem-for-years-d31accf65c6a?source=rss-857fb75dacea------2)
 - [Stop Throwing Errors Everywhere. You Can Also Consider Result Objects](https://betterprogramming.pub/stop-throwing-errors-everywhere-you-can-also-consider-result-objects-4fb5936a9e2d?source=rss-857fb75dacea------2)
 - [3 Remarkable Easy And Social Rewarding Tactics to Avoid Spaghetti Code](https://medium.com/geekculture/3-remarkable-easy-and-social-rewarding-tactics-to-avoid-spaghetti-code-fccab8f012cf?source=rss-857fb75dacea------2)
 - [Why Copying Code Is The Masterclass Of Learning How To Code](https://medium.com/codex/why-copying-code-is-the-masterclass-of-learning-how-to-code-85083c7a136d?source=rss-857fb75dacea------2)
 - [6 Worthy Features in .Net 7 for Any Web Developer](https://betterprogramming.pub/6-worthy-features-in-net-7-for-any-web-developer-6ac42b20426b?source=rss-857fb75dacea------2)
-- [Why Pure Code Is a Waste of Time and Clean Code Is More Than Enough](https://medium.com/geekculture/why-pure-code-is-a-waste-of-time-and-clean-code-is-more-than-enough-148bb08a0109?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
