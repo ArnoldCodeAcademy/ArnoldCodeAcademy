@@ -1,8 +1,9 @@
 ### 👋 Hi, I’m Arnold Abraham, Full-Stack Freelancer & Founder@[ArnoldCodeAcademy](www.arnoldcode.com)
 
 - 🔎 I am a fullstack software engineer from Germany.
-- 🔭 Working on multiple frontend and backend project using Angular and Nodejs
-- ✍🏻 Writing Tutorials and Technical Articles on Medium
+- 🔭 Working on multiple frontend and backend projects using Angular and Nodejs.
+- ✍🏻 Writing Tutorials and Technical Articles on Medium.
+- ⌚ Lately becoming a Rust developer.
 <br>
 
 ## Connect with me
