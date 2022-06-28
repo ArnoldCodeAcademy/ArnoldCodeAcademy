@@ -29,9 +29,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Easily Beat Drawbacks of Wrappers and Inheritance With C# Records](https://medium.com/codex/how-to-easily-beat-drawbacks-of-wrappers-and-inheritance-with-c-records-2a3dc8216755?source=rss-857fb75dacea------2)
 - [The Terms “Junior” and “Senior” Developer Needs an Overhaul — Here’s a Better Model](https://betterprogramming.pub/the-terms-junior-and-senior-developer-needs-an-overhaul-heres-a-better-model-a6e9c0ae49cf?source=rss-857fb75dacea------2)
 - [Amazingly New Features of Microsofts Framework Core 7.0 Were Actually Old Promises](https://medium.com/codex/microsofts-framework-core-7-0-old-promises-as-new-features-b5ac9d344a77?source=rss-857fb75dacea------2)
 - [What Primitive Obsession Is and Why You Already Ruin Your Code Secretly](https://medium.com/codex/what-primitive-obsession-is-and-why-you-already-ruin-your-code-secretly-87120f8acaae?source=rss-857fb75dacea------2)
 - [2 Little But Impressive Principles To Fix Any Coding Problem For Years](https://medium.com/codex/2-little-but-impressive-principles-to-fix-any-coding-problem-for-years-d31accf65c6a?source=rss-857fb75dacea------2)
-- [Stop Throwing Errors Everywhere. You Can Also Consider Result Objects](https://betterprogramming.pub/stop-throwing-errors-everywhere-you-can-also-consider-result-objects-4fb5936a9e2d?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
