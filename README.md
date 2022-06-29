@@ -29,9 +29,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Busted: &quot;Coding Is A Trap. Get Out.&quot; By Justin](https://arnoldcode.medium.com/busted-coding-is-a-trap-get-out-by-justin-dfe05deecdcb?source=rss-857fb75dacea------2)
+- [How Microsoft Banished a Feature That Would Have Saved You a Lot of Time](https://medium.com/geekculture/how-microsoft-banished-a-feature-that-would-have-saved-you-a-lot-of-time-74a32a54a5e7?source=rss-857fb75dacea------2)
 - [How to Easily Beat Drawbacks of Wrappers and Inheritance With C# Records](https://medium.com/codex/how-to-easily-beat-drawbacks-of-wrappers-and-inheritance-with-c-records-2a3dc8216755?source=rss-857fb75dacea------2)
 - [The Terms “Junior” and “Senior” Developer Needs an Overhaul — Here’s a Better Model](https://betterprogramming.pub/the-terms-junior-and-senior-developer-needs-an-overhaul-heres-a-better-model-a6e9c0ae49cf?source=rss-857fb75dacea------2)
 - [Amazingly New Features of Microsofts Framework Core 7.0 Were Actually Old Promises](https://medium.com/codex/microsofts-framework-core-7-0-old-promises-as-new-features-b5ac9d344a77?source=rss-857fb75dacea------2)
-- [What Primitive Obsession Is and Why You Already Ruin Your Code Secretly](https://medium.com/codex/what-primitive-obsession-is-and-why-you-already-ruin-your-code-secretly-87120f8acaae?source=rss-857fb75dacea------2)
-- [2 Little But Impressive Principles To Fix Any Coding Problem For Years](https://medium.com/codex/2-little-but-impressive-principles-to-fix-any-coding-problem-for-years-d31accf65c6a?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
