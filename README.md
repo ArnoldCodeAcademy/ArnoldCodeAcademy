@@ -29,9 +29,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How This 1 Kind of Video Game Drastically Increases Your Development Skills](https://medium.com/geekculture/how-this-1-kind-of-video-game-drastically-increases-your-development-skills-3a3f6b3d11bd?source=rss-857fb75dacea------2)
+- [Is Task-Based UI a Better Solution Than CRUD APIs?](https://betterprogramming.pub/is-task-based-ui-a-better-solution-than-crud-apis-768648fc5161?source=rss-857fb75dacea------2)
+- [State of JS 2021 Analysis: Best Technologies To Use and Most Money to Earn As Software Dev](https://javascript.plainenglish.io/state-of-js-2021-analysis-best-technologies-to-use-and-most-money-to-earn-as-software-dev-d211b7f5fa9c?source=rss-857fb75dacea------2)
 - [Busted: &quot;Coding Is A Trap. Get Out.&quot; By Justin](https://arnoldcode.medium.com/busted-coding-is-a-trap-get-out-by-justin-dfe05deecdcb?source=rss-857fb75dacea------2)
 - [How Microsoft Banished a Feature That Would Have Saved You a Lot of Time](https://medium.com/geekculture/how-microsoft-banished-a-feature-that-would-have-saved-you-a-lot-of-time-74a32a54a5e7?source=rss-857fb75dacea------2)
-- [How to Easily Beat Drawbacks of Wrappers and Inheritance With C# Records](https://medium.com/codex/how-to-easily-beat-drawbacks-of-wrappers-and-inheritance-with-c-records-2a3dc8216755?source=rss-857fb75dacea------2)
-- [The Terms “Junior” and “Senior” Developer Needs an Overhaul — Here’s a Better Model](https://betterprogramming.pub/the-terms-junior-and-senior-developer-needs-an-overhaul-heres-a-better-model-a6e9c0ae49cf?source=rss-857fb75dacea------2)
-- [Amazingly New Features of Microsofts Framework Core 7.0 Were Actually Old Promises](https://medium.com/codex/microsofts-framework-core-7-0-old-promises-as-new-features-b5ac9d344a77?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
