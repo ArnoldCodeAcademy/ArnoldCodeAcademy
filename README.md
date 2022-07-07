@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Arnold Abraham, Full-Stack Freelancer [Hire Me](https://www.linkedin.com/in/arnold-abraham/) & Founder@[ArnoldCodeAcademy](www.arnoldcode.com)
+### 👋 Hi, I’m Arnold Abraham, Full-Stack Freelancer [Hire](https://www.freelancermap.de/freelancer-verzeichnis/profile/entwicklung/367608-profil-arnold-abraham-full-stack-web-developer-firmware-developer-videokurse-software-entwicklung-medium-autor-aus-nordrhein-westfalen-wermelskirchen.html) [Me](https://www.linkedin.com/in/arnold-abraham/) & Founder@[ArnoldCodeAcademy](www.arnoldcode.com)
 
 - 🔎 I am a fullstack software engineer from Germany.
 - 🔭 Working on multiple frontend and backend projects using Angular and Nodejs.
