@@ -29,9 +29,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [4 Red Flags That Tell You To Immediately Stop Learning To Code](https://medium.com/geekculture/4-red-flags-that-tell-you-to-immediately-stop-learning-to-code-71a7035f012c?source=rss-857fb75dacea------2)
 - [5 Damn Good Reasons To Use Design Patterns And Have A Wonderful Time At Work](https://levelup.gitconnected.com/5-damn-good-reasons-to-use-design-patterns-and-have-a-wonderful-time-at-work-831d0dc37810?source=rss-857fb75dacea------2)
 - [Most Self-Taught Programmers Need to Slow Down](https://medium.com/codex/most-self-taught-programmers-need-to-slow-down-3dadca4dc007?source=rss-857fb75dacea------2)
 - [Fre$h — The Next Gen Framework for Web Developers](https://betterprogramming.pub/fre-h-the-next-gen-framework-for-web-developers-794d3f1a54a6?source=rss-857fb75dacea------2)
 - [How This 1 Kind of Video Game Drastically Increases Your Development Skills](https://medium.com/geekculture/how-this-1-kind-of-video-game-drastically-increases-your-development-skills-3a3f6b3d11bd?source=rss-857fb75dacea------2)
-- [Is Task-Based UI a Better Solution Than CRUD APIs?](https://betterprogramming.pub/is-task-based-ui-a-better-solution-than-crud-apis-768648fc5161?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
