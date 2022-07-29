@@ -29,9 +29,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The One New Improvement of C# 10 Drastically Simplifies Lambda Functions](https://medium.com/codex/the-one-new-improvement-of-c-10-drastically-simplifies-lambda-functions-ca7f6aaa44c9?source=rss-857fb75dacea------2)
 - [3 Signs That Tell You To Refactor Your Code ASAP](https://medium.com/codex/3-signs-that-tell-you-to-refactor-your-code-asap-96fa9a64aaf?source=rss-857fb75dacea------2)
 - [9 Tips To Twist Your Failed Job Interview To An Advantage As A Self-Taught Developer](https://medium.com/codex/9-tips-to-twist-your-failed-job-interview-to-an-advantage-as-a-self-taught-developer-49213fbf198a?source=rss-857fb75dacea------2)
 - [The 7 Attributes You Need To Call Yourself a Senior Developer](https://levelup.gitconnected.com/the-7-attributes-you-need-to-call-yourself-a-senior-developer-141fa46c11f8?source=rss-857fb75dacea------2)
 - [4 Red Flags That Tell You To Immediately Stop Learning To Code](https://medium.com/geekculture/4-red-flags-that-tell-you-to-immediately-stop-learning-to-code-71a7035f012c?source=rss-857fb75dacea------2)
-- [5 Damn Good Reasons To Use Design Patterns And Have A Wonderful Time At Work](https://levelup.gitconnected.com/5-damn-good-reasons-to-use-design-patterns-and-have-a-wonderful-time-at-work-831d0dc37810?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
