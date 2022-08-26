@@ -29,9 +29,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [All Code Smells Summarized as Time-Saving One-Liner](https://arnoldcode.medium.com/all-code-smells-summarized-as-time-saving-one-liner-adf8930a2d04?source=rss-857fb75dacea------2)
 - [The 15 Most Important New Features In .Net 7 &lpar;Preview 5&rpar;](https://medium.com/codex/the-15-most-important-new-features-in-net-7-preview-5-2cfb2b8d8245?source=rss-857fb75dacea------2)
 - [3 Things That Absolutely Piss Me Off About Software Development Projects](https://medium.com/codex/3-things-that-absolutely-piss-me-off-about-software-development-projects-4a884bd627c3?source=rss-857fb75dacea------2)
 - [Why Everyone Always Recommends You Do Projects to Land a Developer Job](https://medium.com/codex/why-everyone-always-recommends-you-do-projects-to-land-a-developer-job-c61083bfe814?source=rss-857fb75dacea------2)
 - [The One New Improvement of C# 10 Drastically Simplifies Lambda Functions](https://medium.com/codex/the-one-new-improvement-of-c-10-drastically-simplifies-lambda-functions-ca7f6aaa44c9?source=rss-857fb75dacea------2)
-- [3 Signs That Tell You To Refactor Your Code ASAP](https://medium.com/codex/3-signs-that-tell-you-to-refactor-your-code-asap-96fa9a64aaf?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
