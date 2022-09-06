@@ -29,7 +29,7 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How Not to Act as a Freelancer Unless You Want to Be Resigned](https://medium.com/codex/how-not-to-act-as-a-freelancer-unless-you-want-to-be-resigned-f49a6f8100cd?source=rss-857fb75dacea------2)
+- [How to Behave as a Developer Unless You Want to Get Fired](https://medium.com/codex/how-not-to-act-as-a-freelancer-unless-you-want-to-be-resigned-f49a6f8100cd?source=rss-857fb75dacea------2)
 - [All Code Smells Summarized as Time-Saving One-Liner](https://arnoldcode.medium.com/all-code-smells-summarized-as-time-saving-one-liner-adf8930a2d04?source=rss-857fb75dacea------2)
 - [The 15 Most Important New Features In .Net 7 &lpar;Preview 5&rpar;](https://medium.com/codex/the-15-most-important-new-features-in-net-7-preview-5-2cfb2b8d8245?source=rss-857fb75dacea------2)
 - [3 Things That Absolutely Piss Me Off About Software Development Projects](https://medium.com/codex/3-things-that-absolutely-piss-me-off-about-software-development-projects-4a884bd627c3?source=rss-857fb75dacea------2)
