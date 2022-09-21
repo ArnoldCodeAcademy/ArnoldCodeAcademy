@@ -29,9 +29,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [8 Signs You Are An Intermediate Software Developer](https://medium.com/codex/8-signs-you-are-an-intermediate-software-developer-e5801defcf47?source=rss-857fb75dacea------2)
 - [Build a Multi-level Nested Menu Without JavaScript](https://betterprogramming.pub/build-a-multi-level-nested-menu-without-javascript-ea7629b33e75?source=rss-857fb75dacea------2)
 - [How To Build A Neat Main Menu For Your Website Without JavaScript](https://arnoldcode.medium.com/how-to-build-a-neat-main-menu-for-your-website-without-javascript-8f11114b9989?source=rss-857fb75dacea------2)
 - [How to Save Aging Software To Guarantee A Long Living Product](https://medium.com/codex/how-to-save-aging-software-to-guarantee-a-long-living-product-7a71b3e58196?source=rss-857fb75dacea------2)
 - [How to Behave as a Developer Unless You Want to Get Fired](https://medium.com/codex/how-not-to-act-as-a-freelancer-unless-you-want-to-be-resigned-f49a6f8100cd?source=rss-857fb75dacea------2)
-- [All Code Smells Summarized as Time-Saving One-Liner](https://arnoldcode.medium.com/all-code-smells-summarized-as-time-saving-one-liner-adf8930a2d04?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
