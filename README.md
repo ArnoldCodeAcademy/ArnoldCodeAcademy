@@ -29,9 +29,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why It Is Awful When Websites Guilt-Trip You for Using Ad-Block](https://medium.com/geekculture/why-it-is-awful-when-websites-guilt-trip-you-for-using-ad-block-96f23a3be229?source=rss-857fb75dacea------2)
 - [How to Solve Any Code Problem by Really Doing Nothing at First](https://medium.com/codex/how-to-solve-any-code-problem-by-really-doing-nothing-at-first-b9c99adfc2fa?source=rss-857fb75dacea------2)
 - [12 Code Smells You Want to Hide From Your Boss as a JavaScript Beginner](https://javascript.plainenglish.io/12-code-smells-you-want-to-hide-from-your-boss-as-a-javascript-beginner-486b956b86a0?source=rss-857fb75dacea------2)
 - [Why You Surely Dig Your Own Grave If You Are an Octopus Developer](https://medium.com/codex/why-you-surely-dig-your-own-grave-if-you-are-an-octopus-developer-7a45e1aa4852?source=rss-857fb75dacea------2)
 - [8 Signs You Are An Intermediate Software Developer](https://medium.com/codex/8-signs-you-are-an-intermediate-software-developer-e5801defcf47?source=rss-857fb75dacea------2)
-- [Build a Multi-level Nested Menu Without JavaScript](https://betterprogramming.pub/build-a-multi-level-nested-menu-without-javascript-ea7629b33e75?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
