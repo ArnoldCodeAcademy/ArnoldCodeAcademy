@@ -29,9 +29,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Finally! A Node.js Framework to develop with the comfort of .NET Framework](https://medium.com/codex/finally-a-node-js-framework-to-develop-with-the-comfort-of-net-framework-4ef26461c1a?source=rss-857fb75dacea------2)
 - [Test Driven Development Has 1 Tremendous Flaw And Is Not About Testing At All](https://medium.com/codex/test-driven-development-has-1-tremendous-flaw-and-is-not-about-testing-at-all-64eaeaa248b3?source=rss-857fb75dacea------2)
 - [7 Ways to Eliminate or Reduce Time Wasted in Unnecessary Meetings](https://medium.com/codex/7-ways-to-eliminate-or-reduce-time-wasted-in-unnecessary-meetings-76b36365dd3b?source=rss-857fb75dacea------2)
 - [Why It Is Awful When Websites Guilt-Trip You for Using Ad-Block](https://medium.com/geekculture/why-it-is-awful-when-websites-guilt-trip-you-for-using-ad-block-96f23a3be229?source=rss-857fb75dacea------2)
 - [How to Solve Any Code Problem by Really Doing Nothing at First](https://medium.com/codex/how-to-solve-any-code-problem-by-really-doing-nothing-at-first-b9c99adfc2fa?source=rss-857fb75dacea------2)
-- [12 Code Smells You Want to Hide From Your Boss as a JavaScript Beginner](https://javascript.plainenglish.io/12-code-smells-you-want-to-hide-from-your-boss-as-a-javascript-beginner-486b956b86a0?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
