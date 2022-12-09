@@ -29,9 +29,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The 1 Hidden Tradeoff With Abstract Code You Fail To Realize](https://medium.com/codex/the-1-hidden-tradeoff-with-abstract-code-you-fail-to-realize-5efd7f887a6b?source=rss-857fb75dacea------2)
+- [Patterns of JavaScript: Prototype Pattern &lpar;Creational&rpar;](https://javascript.plainenglish.io/patterns-of-javascript-prototype-pattern-creational-6f7ae6c03ce9?source=rss-857fb75dacea------2)
 - [Patterns of JavaScript: Builder Pattern](https://javascript.plainenglish.io/patterns-of-javascript-builder-pattern-fb6cd3aca35b?source=rss-857fb75dacea------2)
 - [The Fastest Collection In C# Is This 1 That You Probably Barely Ever Used](https://medium.com/codex/the-fastest-collection-in-c-is-this-1-that-you-probably-barely-ever-used-d5cfb18319fd?source=rss-857fb75dacea------2)
 - [How to Find Out Directly If This Workplace Is Your Personal Hell](https://medium.com/codex/how-to-find-out-directly-if-this-workplace-is-your-personal-hell-a99bc5b22b8d?source=rss-857fb75dacea------2)
-- [Patterns of JavaScript: Abstract Factory Pattern Explained By Tower Defense](https://javascript.plainenglish.io/patterns-of-javascript-abstract-factory-pattern-explained-by-tower-defense-46a36776a391?source=rss-857fb75dacea------2)
-- [Patterns Of JavaScript: Factory Method Explained With Tower Defense](https://javascript.plainenglish.io/world-of-javascript-factory-method-explained-by-tower-defense-spawner-402c69426650?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
