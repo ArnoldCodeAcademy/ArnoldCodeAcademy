@@ -29,9 +29,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why You Shouldn&#39;t Nest Your Code](https://medium.com/codex/why-you-shouldnt-nest-your-code-185cf2e2cde3?source=rss-857fb75dacea------2)
 - [5 Compelling Reasons Why You Should Learn Design Patterns Today](https://medium.com/codex/5-compelling-reasons-why-you-should-learn-design-patterns-today-52b914ef7119?source=rss-857fb75dacea------2)
 - [Patterns of JavaScript: Singleton](https://arnoldcode.medium.com/patterns-of-javascript-singleton-c7c2eff9d4f5?source=rss-857fb75dacea------2)
 - [How ChatGPT Really Threatens Your Job Security as a Developer](https://medium.com/codex/how-chatgpt-really-threatens-your-job-security-as-a-developer-8cc243e400fa?source=rss-857fb75dacea------2)
 - [The 1 Hidden Tradeoff With Abstract Code You Fail To Realize](https://medium.com/codex/the-1-hidden-tradeoff-with-abstract-code-you-fail-to-realize-5efd7f887a6b?source=rss-857fb75dacea------2)
-- [Patterns of JavaScript: Prototype Pattern &lpar;Creational&rpar;](https://javascript.plainenglish.io/patterns-of-javascript-prototype-pattern-creational-6f7ae6c03ce9?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
