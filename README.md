@@ -29,9 +29,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The 4 Biggest Misconceptions That Hold Back Junior Developers from Success](https://levelup.gitconnected.com/the-4-biggest-misconceptions-that-hold-back-junior-developers-from-success-b9a22c583dc9?source=rss-857fb75dacea------2)
 - [The Ultimate Guide to DateTime in C# &amp; .Net](https://medium.com/codex/the-ultimate-guide-to-datetime-in-c-net-e3b2f40c5f40?source=rss-857fb75dacea------2)
 - [How JavaScript Slowly Adopts Functional Patterns with TC39 &lpar;Pipe Operator&rpar;](https://javascript.plainenglish.io/how-javascript-slowly-adopts-functional-patterns-with-tc39-pipe-operator-a261561cede6?source=rss-857fb75dacea------2)
 - [The Ultimate Guide to TypeScript 5 New 5 Best Features](https://javascript.plainenglish.io/the-5-best-features-of-typescript-5-beta-you-should-know-about-290048ead20b?source=rss-857fb75dacea------2)
 - [How To Compare Correctly In .NET — Definitive Guide](https://medium.com/codex/how-to-compare-correctly-in-net-definitive-guide-cf66ba79fe8?source=rss-857fb75dacea------2)
-- [The Sweet New Features of C#11 and .NET7](https://medium.com/codex/the-sweet-new-features-of-c-11-and-net7-e42793698192?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
