@@ -29,9 +29,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [tRPC vs. REST &amp; GraphQL: Which Is the True Best for Single Service API?](https://medium.com/codex/trpc-vs-rest-graphql-which-is-the-true-best-for-single-service-api-bee05ed7ee11?source=rss-857fb75dacea------2)
 - [Avoid This 1 Common Mistake By Using Disposable Objects in .NET](https://medium.com/codex/avoid-this-1-common-mistake-by-using-disposable-objects-in-net-5d67a34b68a0?source=rss-857fb75dacea------2)
 - [5 Unconventional Ways to Boost Your Developer Career By Breaking the Rules](https://arnoldcode.medium.com/5-unconventional-ways-to-boost-your-developer-career-by-breaking-the-rules-f3cad11619f?source=rss-857fb75dacea------2)
 - [How to Overcome the Top Challenges of Modern Software Development](https://levelup.gitconnected.com/the-most-common-pain-points-of-developers-and-how-to-solve-them-6fe8952e0ba?source=rss-857fb75dacea------2)
 - [How to Zip and Unzip Files in .NET Like a Pro](https://medium.com/codex/how-to-zip-and-unzip-files-in-net-like-a-pro-5a27b0d17a3?source=rss-857fb75dacea------2)
-- [How Trunk-Based Development Makes You an Outstanding Developer](https://levelup.gitconnected.com/how-trunk-based-development-makes-you-an-outstanding-developer-912f141d09b6?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
