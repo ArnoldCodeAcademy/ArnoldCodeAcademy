@@ -29,9 +29,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Returning NULL Leads to Snitchy Bugs and How to Prevent Them](https://medium.com/codex/how-returning-null-leads-to-snitchy-bugs-and-how-to-prevent-them-3bd908c973a7?source=rss-857fb75dacea------2)
 - [Surviving a Dysfunctional Workplace as Software Developer: 6 Lessons For You](https://arnoldcode.medium.com/surviving-a-dysfunctional-workplace-as-software-developer-6-lessons-for-you-91567a1afbb1?source=rss-857fb75dacea------2)
 - [The Ultimate Guide to JavaScript: 11 Pro Tricks That Will Make You a Better Developer](https://javascript.plainenglish.io/the-ultimate-guide-to-javascript-11-pro-tricks-that-will-make-you-a-better-developer-e5a442e83dbf?source=rss-857fb75dacea------2)
 - [tRPC vs. REST &amp; GraphQL: Which Is the True Best for Single Service API?](https://medium.com/codex/trpc-vs-rest-graphql-which-is-the-true-best-for-single-service-api-bee05ed7ee11?source=rss-857fb75dacea------2)
 - [Avoid This 1 Common Mistake By Using Disposable Objects in .NET](https://medium.com/codex/avoid-this-1-common-mistake-by-using-disposable-objects-in-net-5d67a34b68a0?source=rss-857fb75dacea------2)
-- [5 Unconventional Ways to Boost Your Developer Career By Breaking the Rules](https://arnoldcode.medium.com/5-unconventional-ways-to-boost-your-developer-career-by-breaking-the-rules-f3cad11619f?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
