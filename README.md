@@ -29,9 +29,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Avoid Attacks &lpar;Cross-Site Scripting&rpar; with Eye-Opening Sanitizer API](https://medium.com/codex/how-to-avoid-attacks-cross-site-scripting-with-eye-opening-sanitizer-api-fa142835bc96?source=rss-857fb75dacea------2)
 - [How To Avoid Null Checks Forever in C# and Focus on The Good Parts](https://medium.com/codex/how-to-avoid-null-checks-forever-in-c-and-focus-on-the-good-parts-e39f06f7123d?source=rss-857fb75dacea------2)
 - [Why Domain Knowledge is More Important Than Experience](https://medium.com/codex/why-domain-knowledge-is-more-important-than-experience-8bb713d1a7b6?source=rss-857fb75dacea------2)
 - [Vanilla JavaScript: Breaking Down the 4 Biggest Myths You Thought Were True](https://javascript.plainenglish.io/vanilla-javascript-breaking-down-the-4-biggest-myths-you-thought-were-true-a47c9d6f5f12?source=rss-857fb75dacea------2)
 - [How Returning NULL Leads to Snitchy Bugs and How to Prevent Them](https://medium.com/codex/how-returning-null-leads-to-snitchy-bugs-and-how-to-prevent-them-3bd908c973a7?source=rss-857fb75dacea------2)
-- [Surviving a Dysfunctional Workplace as Software Developer: 6 Lessons For You](https://arnoldcode.medium.com/surviving-a-dysfunctional-workplace-as-software-developer-6-lessons-for-you-91567a1afbb1?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
