@@ -29,9 +29,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Software Globalisation: Top 6 Ways to Boost Your App’s Worldwide Success in .NET](https://medium.com/codex/software-globalisation-top-6-ways-to-boost-your-apps-worldwide-success-in-net-78e95868dde2?source=rss-857fb75dacea------2)
 - [How to Avoid Attacks &lpar;Cross-Site Scripting&rpar; with Eye-Opening Sanitizer API](https://medium.com/codex/how-to-avoid-attacks-cross-site-scripting-with-eye-opening-sanitizer-api-fa142835bc96?source=rss-857fb75dacea------2)
 - [Say Goodbye to Null Checks in C# and Unleash Your Full Potential!](https://medium.com/codex/how-to-avoid-null-checks-forever-in-c-and-focus-on-the-good-parts-e39f06f7123d?source=rss-857fb75dacea------2)
 - [Why Domain Knowledge is More Important Than Experience](https://medium.com/codex/why-domain-knowledge-is-more-important-than-experience-8bb713d1a7b6?source=rss-857fb75dacea------2)
 - [Vanilla JavaScript: Breaking Down the 4 Biggest Myths You Thought Were True](https://javascript.plainenglish.io/vanilla-javascript-breaking-down-the-4-biggest-myths-you-thought-were-true-a47c9d6f5f12?source=rss-857fb75dacea------2)
-- [How Returning NULL Leads to Snitchy Bugs and How to Prevent Them](https://medium.com/codex/how-returning-null-leads-to-snitchy-bugs-and-how-to-prevent-them-3bd908c973a7?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
