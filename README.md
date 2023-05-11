@@ -29,9 +29,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How ChatGPT and AI Made Me a 10x Developer but Also a 10x Worse Developer](https://arnoldcode.medium.com/how-chatgpt-and-ai-made-me-a-10x-developer-but-also-a-10x-worse-developer-4445e110e2ae?source=rss-857fb75dacea------2)
+- [How To Succeed Your Daily Tasks in 50% Less Effort With 3 Effective Tweaks](https://medium.com/illumination/how-to-succeed-your-daily-tasks-in-50-less-effort-with-3-effective-tweaks-10cc06268a10?source=rss-857fb75dacea------2)
+- [How ChatGPT and AI Made Me a 10x Developer but Also a 10x Worse Developer](https://medium.com/illumination/how-chatgpt-and-ai-made-me-a-10x-developer-but-also-a-10x-worse-developer-4445e110e2ae?source=rss-857fb75dacea------2)
 - [Unlock Secret Performance Measurement Tools to Boost Your Websites Performance](https://medium.com/codex/unlock-secret-performance-measurement-tools-to-boost-your-websites-performance-525495f00781?source=rss-857fb75dacea------2)
 - [Software Globalisation: Top 6 Ways to Boost Your App’s Worldwide Success in .NET](https://medium.com/codex/software-globalisation-top-6-ways-to-boost-your-apps-worldwide-success-in-net-78e95868dde2?source=rss-857fb75dacea------2)
 - [How to Avoid Attacks &lpar;Cross-Site Scripting&rpar; with Eye-Opening Sanitizer API](https://medium.com/codex/how-to-avoid-attacks-cross-site-scripting-with-eye-opening-sanitizer-api-fa142835bc96?source=rss-857fb75dacea------2)
-- [Say Goodbye to Null Checks in C# and Unleash Your Full Potential!](https://medium.com/codex/how-to-avoid-null-checks-forever-in-c-and-focus-on-the-good-parts-e39f06f7123d?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
