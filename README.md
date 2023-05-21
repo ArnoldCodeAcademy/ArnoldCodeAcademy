@@ -29,9 +29,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Await Anything in C#](https://medium.com/codex/how-to-await-anything-in-c-daa4dc1fe86d?source=rss-857fb75dacea------2)
 - [Why Every Software Developer Should Learn to Say ‘NO’ Today!](https://medium.com/codex/why-every-software-developer-should-learn-to-say-no-today-64cd290a53d?source=rss-857fb75dacea------2)
 - [The 6 Salient Key Signals That It’s Time to Move On and Quit Software Development](https://medium.com/codex/the-6-salient-key-signals-that-its-time-to-move-on-and-quit-software-development-6f69e29e985b?source=rss-857fb75dacea------2)
 - [Cut Through Complexity and Improve Learning Effects with These 3 Simple Techniques](https://medium.com/illumination/cut-through-complexity-and-improve-learning-effects-with-these-3-simple-techniques-3ff79646c44e?source=rss-857fb75dacea------2)
 - [How To Succeed Your Daily Tasks in 50% Less Effort With 3 Effective Tweaks](https://medium.com/illumination/how-to-succeed-your-daily-tasks-in-50-less-effort-with-3-effective-tweaks-10cc06268a10?source=rss-857fb75dacea------2)
-- [How ChatGPT and AI Made Me a 10x Developer but Also a 10x Worse Developer](https://medium.com/aimonks/how-chatgpt-and-ai-made-me-a-10x-developer-but-also-a-10x-worse-developer-4445e110e2ae?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
