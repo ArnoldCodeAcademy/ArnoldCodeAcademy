@@ -29,9 +29,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Unlock This 1 Hidden and Innovative Native Memory Function for Pro-Level Development In C#](https://medium.com/codex/unlock-this-1-hidden-and-innovative-native-memory-function-for-pro-level-development-in-c-d16cc3b0cd7?source=rss-857fb75dacea------2)
+- [How To Encrypt Strings with Vigenère Cipher Made Easy Using a Custom Function in JavaScript](https://arnoldcode.medium.com/how-to-encrypt-strings-with-vigen%C3%A8re-cipher-made-easy-using-a-custom-function-in-javascript-92d50a4e9dc9?source=rss-857fb75dacea------2)
+- [Improve Your C# Skills by Unlocking This Hidden Memory Feature](https://medium.com/codex/unlock-this-1-hidden-and-innovative-native-memory-function-for-pro-level-development-in-c-d16cc3b0cd7?source=rss-857fb75dacea------2)
 - [How to Await Anything in C#](https://medium.com/codex/how-to-await-anything-in-c-daa4dc1fe86d?source=rss-857fb75dacea------2)
-- [Why Every Software Developer Should Learn to Say ‘NO’ Today!](https://medium.com/codex/why-every-software-developer-should-learn-to-say-no-today-64cd290a53d?source=rss-857fb75dacea------2)
-- [The 6 Salient Key Signals That It’s Time to Move On and Quit Software Development](https://medium.com/codex/the-6-salient-key-signals-that-its-time-to-move-on-and-quit-software-development-6f69e29e985b?source=rss-857fb75dacea------2)
-- [Cut Through Complexity and Improve Learning Effects with These 3 Simple Techniques](https://medium.com/illumination/cut-through-complexity-and-improve-learning-effects-with-these-3-simple-techniques-3ff79646c44e?source=rss-857fb75dacea------2)
+- [Every Senior Developer Has Learned to Say “No!”, Here’s Why](https://medium.com/codex/why-every-software-developer-should-learn-to-say-no-today-64cd290a53d?source=rss-857fb75dacea------2)
+- [6 Inconspicuous Signs Being a Developer Isn’t for You](https://medium.com/codex/the-6-salient-key-signals-that-its-time-to-move-on-and-quit-software-development-6f69e29e985b?source=rss-857fb75dacea------2)
 <!-- BLOG-POST-LIST:END -->
