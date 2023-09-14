@@ -29,7 +29,7 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How SudoLang Proves ChatGPT To Support Developers Not Busts the Coders’ Jobs](https://medium.com/codex/how-sudolang-proves-chatgpt-to-support-developers-not-busts-the-coders-jobs-a607246485e2?source=rss-857fb75dacea------2)
+- [How ChatGPT Sucks To Code for You and What You Can Do About It](https://medium.com/codex/how-sudolang-proves-chatgpt-to-support-developers-not-busts-the-coders-jobs-a607246485e2?source=rss-857fb75dacea------2)
 - [How To Implement the A* Search Algorithm By Solving the Shortest Path Through a 2D](https://arnoldcode.medium.com/how-to-implement-the-a-search-algorithm-by-solving-the-shortest-path-through-a-2d-6f97dd75309e?source=rss-857fb75dacea------2)
 - [How To Solve The Traveling Salesman Problem &lpar;TSP&rpar; in JavaScript](https://arnoldcode.medium.com/how-to-solve-the-traveling-salesman-problem-tsp-in-javascript-ccc36fcd817a?source=rss-857fb75dacea------2)
 - [Finding the Longest Common Subsequence &lpar;LCS&rpar; of Two Strings](https://arnoldcode.medium.com/finding-the-longest-common-subsequence-lcs-of-two-strings-a1a6ecc04ceb?source=rss-857fb75dacea------2)
