@@ -29,7 +29,7 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [This №1 Rule Kept Devs Afloat, and Most of Us Don’t Know How To Get It Back](https://medium.com/better-programming/this-1-rule-kept-devs-afloat-and-most-of-us-dont-know-how-to-get-it-back-b2ce21f66841?source=rss-857fb75dacea------2)
+- [This №1 Rule Kept Devs Afloat, and Most of Us Don’t Know How To Get It Back](https://betterprogramming.pub/this-1-rule-kept-devs-afloat-and-most-of-us-dont-know-how-to-get-it-back-b2ce21f66841?source=rss-857fb75dacea------2)
 - [How To Handle Legacy Code The Correct and Career Rewarding Way](https://arnoldcode.medium.com/how-to-handle-legacy-code-the-correct-and-career-rewarding-way-2b02a94d00a4?source=rss-857fb75dacea------2)
 - [Mastering Pattern Matching and Unique Logic in C#11 for Unparalleled Empowerment](https://medium.com/codex/mastering-pattern-matching-and-unique-logic-in-c-11-for-unparalleled-empowerment-9508e85949f4?source=rss-857fb75dacea------2)
 - [How ChatGPT Sucks To Code for You and What You Can Do About It](https://medium.com/codex/how-sudolang-proves-chatgpt-to-support-developers-not-busts-the-coders-jobs-a607246485e2?source=rss-857fb75dacea------2)
